@@ -1,5 +1,19 @@
 # 🏥 Pandemic Patterns: Unveiling COVID-19 Dynamics in India Through Excel Dashboard Analytics
 
+## 📸 Dashboard Preview
+
+*(Add screenshots here of your dashboard for quick visualization)*
+
+### Overview Dashboard
+
+![Overview Dashboard](./imgs/excel-covid-19-dashboard1.png)
+
+### Statewise Vaccination Dashboard
+![Statewise Vaccination Dashboard](./imgs/excel-covid-19-statewise-vaccination-dashboard.png)
+
+### Statewise Testing Dashboard
+![Statewise Testing Dashboard](./imgs/excel-covid-19-statewise-testing-dashboard.png)
+
 ## 📌 Project Overview
 
 This project analyzes the **spread, testing, and vaccination progress of COVID-19 in India** using multiple datasets and presents insights through an **interactive Excel dashboard**.
@@ -108,19 +122,3 @@ An **interactive Excel dashboard** was developed to consolidate insights.
 * **Statistical Analysis**: Positive rates, CFR, correlation analysis
 * **Visualization**: Pivot charts, line/area plots, heat maps
 * **Dashboarding**: Slicers, timelines, conditional formatting
-
----
-
-## 📸 Dashboard Preview
-
-*(Add screenshots here of your dashboard for quick visualization)*
-
-### Overview Dashboard
-
-![Overview Dashboard](./imgs/excel-covid-19-dashboard1.png)
-
-### Statewise Vaccination Dashboard
-![Statewise Vaccination Dashboard](./imgs/excel-covid-19-statewise-vaccination-dashboard.png)
-
-### Statewise Testing Dashboard
-![Statewise Testing Dashboard](./imgs/excel-covid-19-statewise-testing-dashboard.png)
